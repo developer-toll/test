@@ -1,6 +1,6 @@
 {
   "name": "Solflare X NFT",
-  "symbol": "",
+  "symbol": "TEST NFT GTREPSY",
   "description": "Celebratory Solflare NFT for the Solflare X launch",
   "seller_fee_basis_points": 0,
   "image": "https://miro.medium.com/max/1200/0*AqFiJp2_TrUgDtKN.png",
@@ -30,7 +30,7 @@
         "type": "image/png"
       }
     ],
-    "category": "image/png",
+    "category": "image",
     "creators": [
       {
         "address": "xEtQ9Fpv62qdc1GYfpNReMasVTe9YW5bHJwfVKqo72u",
