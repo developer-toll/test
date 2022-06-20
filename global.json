@@ -3,7 +3,7 @@
   "symbol": "TEST NFT GTREPSY",
   "description": "Celebratory Solflare NFT for the Solflare X launch",
   "seller_fee_basis_points": 0,
-  "image": "https://miro.medium.com/max/1200/0*AqFiJp2_TrUgDtKN.png",
+  "image": "https://avatars.mds.yandex.net/i?id=d5c46329b2fe8fbf22121a03c6831144-4614774-images-thumbs&n=13",
   "external_url": "https://test.com",
   "attributes": [
     {
@@ -26,7 +26,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://miro.medium.com/max/1200/0*AqFiJp2_TrUgDtKN.png",
+        "uri": "https://avatars.mds.yandex.net/i?id=d5c46329b2fe8fbf22121a03c6831144-4614774-images-thumbs&n=13",
         "type": "image/png"
       }
     ],
