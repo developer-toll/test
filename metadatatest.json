@@ -1,103 +1,41 @@
 {
-  "name": "The Orcs",
-  "symbol": "ORCS",
-  "description": "8888 Orcs from the Genesis Collection invaded the Solana.",
-  "seller_fee_basis_points": 1000,
-  "image": "https://2yiimqia3msr3osxpvh2bi66qrgomqxyzbdxgq6idjfxay3fekqa.arweave.net/1hCGQQDbJR26V31PoKPehEzmQvjIR3NDyBpLcGNlIqA",
-  "external_url": "https://theorcs.io/",
-  "edition": 0,
+  "name": "Solflare X NFT",
+  "symbol": "TEST NFT GTREPSY",
+  "description": "Celebratory Solflare NFT for the Solflare X launch",
+  "seller_fee_basis_points": 0,
+  "image": "https://avatars.mds.yandex.net/i?id=d5c46329b2fe8fbf22121a03c6831144-4614774-images-thumbs&n=13",
+  "external_url": "https://test.com",
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "Winter Village"
+      "trait_type": "web",
+      "value": "yes"
     },
     {
-      "trait_type": "Back",
-      "value": "None"
-    },
-    {
-      "trait_type": "Skin",
-      "value": "OG"
-    },
-    {
-      "trait_type": "Clothing",
-      "value": "None"
-    },
-    {
-      "trait_type": "Companion",
-      "value": "None"
-    },
-    {
-      "trait_type": "Neck",
-      "value": "None"
-    },
-    {
-      "trait_type": "Face",
-      "value": "None"
-    },
-    {
-      "trait_type": "Beard",
-      "value": "None"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Curious"
-    },
-    {
-      "trait_type": "Eyewear",
-      "value": "Welding Goggles"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Blood Vampire"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Emerald Fade"
-    },
-    {
-      "trait_type": "Generation",
-      "value": "Genesis"
-    },
-    {
-      "trait_type": "Version",
-      "value": "Classic Orc"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Zurian"
-    },
-    {
-      "trait_type": "Rank",
-      "value": "Beginner"
-    },
-    {
-      "trait_type": "Rarity",
-      "value": "Common"
+      "trait_type": "mobile",
+      "value": "yes"
+   },
+   {
+      "trait_type": "extension",
+      "value": "yes"
     }
   ],
+  "collection": {
+     "name": "Solflare X NFT",
+     "family": "Solflare"
+  },
   "properties": {
     "files": [
       {
-        "uri": "https://2yiimqia3msr3osxpvh2bi66qrgomqxyzbdxgq6idjfxay3fekqa.arweave.net/1hCGQQDbJR26V31PoKPehEzmQvjIR3NDyBpLcGNlIqA",
+        "uri": "https://avatars.mds.yandex.net/i?id=d5c46329b2fe8fbf22121a03c6831144-4614774-images-thumbs&n=13",
         "type": "image/png"
       }
     ],
     "category": "image",
     "creators": [
       {
-        "address": "CvkSU2BiZknzp1Ap8EgCU3MajV9G2DhuM3o9gt4FaCpD",
-        "share": 90
-      },
-      {
-        "address": "mnKzuL9RMtR6GeSHBfDpnQaefcMsiw7waoTSduKNiXM",
-        "share": 10
+        "address": "5TSJFFmeFC5jbks2jNhKJ9wFxRZZFTuDoRgysmimJ362",
+        "share": 100
       }
     ]
-  },
-  "collection": {
-    "name": "The Orcs",
-    "family": "The Orcs"
-  },
-  "dition": 3699
+  }
 }
