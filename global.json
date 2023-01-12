@@ -1,6 +1,5 @@
 {
-  "name": "Solflare X NFT",
-  "symbol": "TEST NFT GTREPSY",
+  "name": "Collection name", 
   "description": "Celebratory Solflare NFT for the Solflare X launch",
   "seller_fee_basis_points": 0,
   "image": "https://avatars.mds.yandex.net/i?id=d5c46329b2fe8fbf22121a03c6831144-4614774-images-thumbs&n=13",
@@ -20,8 +19,8 @@
     }
   ],
   "collection": {
-     "name": "Solflare X NFT",
-     "family": "Solflare"
+     "name": "Collection name X NFT",
+     "family": "Collection XX"
   },
   "properties": {
     "files": [
