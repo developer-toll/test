@@ -2,7 +2,7 @@
   "name": "Collection name", 
   "description": "Celebratory Solflare NFT for the Solflare X launch",
   "seller_fee_basis_points": 0,
-  "image": "https://nfteyez.global/nfteyez-logo.png",
+  "image": "https://avatars.mds.yandex.net/i?id=5c39db1656bdd61cf42aef836aa837b4-5875954-images-thumbs&n=13&exp=1",
   "external_url": "https://test.com",
   "attributes": [
     {
@@ -25,7 +25,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://avatars.mds.yandex.net/i?id=d5c46329b2fe8fbf22121a03c6831144-4614774-images-thumbs&n=13",
+        "uri": "https://avatars.mds.yandex.net/i?id=5c39db1656bdd61cf42aef836aa837b4-5875954-images-thumbs&n=13&exp=1",
         "type": "image/png"
       }
     ],
